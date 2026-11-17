@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rishabh7259/C-Technical-Training-Programs/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Rishabh7259/C-Technical-Training-Programs/tree/master/0007-reverse-integer) |
 ## Sliding Window
 |  |
 | ------- |
