@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rishabh7259/C-Technical-Training-Programs/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Rishabh7259/C-Technical-Training-Programs/tree/master/0021-merge-two-sorted-lists) |
 ## Stack
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rishabh7259/C-Technical-Training-Programs/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Rishabh7259/C-Technical-Training-Programs/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
