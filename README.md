@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Rishabh7259/C-Technical-Training-Programs/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rishabh7259/C-Technical-Training-Programs/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Rishabh7259/C-Technical-Training-Programs/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Rishabh7259/C-Technical-Training-Programs/tree/master/0022-generate-parentheses) |
 | [0290-word-pattern](https://github.com/Rishabh7259/C-Technical-Training-Programs/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Rishabh7259/C-Technical-Training-Programs/tree/master/0344-reverse-string) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rishabh7259/C-Technical-Training-Programs/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Rishabh7259/C-Technical-Training-Programs/tree/master/0022-generate-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rishabh7259/C-Technical-Training-Programs/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Rishabh7259/C-Technical-Training-Programs/tree/master/0022-generate-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rishabh7259/C-Technical-Training-Programs/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Rishabh7259/C-Technical-Training-Programs/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Rishabh7259/C-Technical-Training-Programs/tree/master/0022-generate-parentheses) |
 ## Manacher
 |  |
 | ------- |
