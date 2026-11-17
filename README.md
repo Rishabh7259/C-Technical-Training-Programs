@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rishabh7259/C-Technical-Training-Programs/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rishabh7259/C-Technical-Training-Programs/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## String
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rishabh7259/C-Technical-Training-Programs/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Rishabh7259/C-Technical-Training-Programs/tree/master/0018-4sum) |
 ## Two Pointers
 |  |
