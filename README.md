@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Rishabh7259/C-Technical-Training-Programs/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Rishabh7259/C-Technical-Training-Programs/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Rishabh7259/C-Technical-Training-Programs/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Rishabh7259/C-Technical-Training-Programs/tree/master/0029-divide-two-integers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Rishabh7259/C-Technical-Training-Programs/tree/master/0456-132-pattern) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Rishabh7259/C-Technical-Training-Programs/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
